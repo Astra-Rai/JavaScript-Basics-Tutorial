@@ -1,8 +1,9 @@
-### Scrimba JavaScript Tutorial
+### Scrimba | JavaScript Tutorial
 
 **By Dyland C Isreal**
 
 [Link to Tutorial](https://scrimba.com/g/gintrotojavascript)**
+
 
 **Topics Covered**
 

@@ -2,7 +2,7 @@
 
 **By Dyland C Isreal**
 
-**Link to Tutorial](https://scrimba.com/g/gintrotojavascript)**
+[Link to Tutorial](https://scrimba.com/g/gintrotojavascript)**
 
 **Topics Covered**
 
